@@ -1,0 +1,13 @@
+﻿0779d5d5-0e6a-4750-bab7-e75c0b38c416-->und\0779d5d5-0e6a-4750-bab7-e75c0b38c416
+0779d5d5-0e6a-4750-bab7-e75c0b38c416.0-->Form\ФормаОтчета
+443a002e-ac4c-4efa-a19e-57300836f678-->und\443a002e-ac4c-4efa-a19e-57300836f678
+443a002e-ac4c-4efa-a19e-57300836f678.0-->und\443a002e-ac4c-4efa-a19e-57300836f678.0
+4895a17f-be0d-4eb7-a63f-ca6ff00d232c-->und\4895a17f-be0d-4eb7-a63f-ca6ff00d232c
+7bb30bad-bd10-41f0-af1d-0598299958f2-->und\7bb30bad-bd10-41f0-af1d-0598299958f2
+7bb30bad-bd10-41f0-af1d-0598299958f2.0-->Form\ФормаНастроек
+a24e5f1b-81c6-4801-bee6-db493a111f57-->und\a24e5f1b-81c6-4801-bee6-db493a111f57
+a24e5f1b-81c6-4801-bee6-db493a111f57.0-->und\a24e5f1b-81c6-4801-bee6-db493a111f57.0
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
